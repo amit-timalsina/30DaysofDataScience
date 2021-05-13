@@ -12,3 +12,15 @@
 -  I learned to select and train a Machine Learning Model using Scikit Learn, learned about various performance metrics, and learned little about the Linear Regression model, Decision Tree Regressor, and Random Forest Regressor model. I also came across Cross-validation and using it easily from Scikit Learn.
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | (Book)
   - [**Day 1 of #100DaysOfData - Personal Blog**](https://amittesting.herokuapp.com/blog/day1-of-100daysofdata) | (Blog)
+
+**Day2 of 100DaysOfData!**
+- On my journey of Machine Learning and Deep Learning, even Today I continued reading Chapter End-to-End Machine learning Project. After framing the problem, getting the data, exploring the data, sampling data into train and test set, creating a whole transformation pipeline to clean up and prepare data for Machine Learning algorithms automatically, and selecting and training a model, 
+today I learned to fine-tune my selected model.
+- Here I have learned about Grid Search, Randomized Search, Ensemble methods, Analyze the best models, their error, and figuring out the importance of each attribute for making an accurate prediction, and finally to evaluate my system on the test set for production. I also took some time out to look into Artificial Neural Networks.
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | (Book)
+  - [**Day 2 of #100DaysOfData - Personal Blog**](https://amittesting.herokuapp.com/blog/day2-of-100daysofdata) | (Blog)
+
+**Day3 of 100DaysOfData!**
+- On my journey of Machine Learning and Deep Learning, Today I started chapter 'Training Models' of Hands-on machine learning with scikit-learn and TensorFlow Book.I learned about the fundamentals of the Linear Regression model, cost function, Normal equation, the math behind scikit learn's Linear-regression model, Computational Complexity of Normal Equation.
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | (Book)
+  - [**Day 3 of #100DaysOfData - Personal Blog**](https://amittesting.herokuapp.com/blog/day3-of-100daysofdata) | (Blog)
