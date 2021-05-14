@@ -24,3 +24,12 @@ today I learned to fine-tune my selected model.
 - On my journey of Machine Learning and Deep Learning, Today I started chapter 'Training Models' of Hands-on machine learning with scikit-learn and TensorFlow Book.I learned about the fundamentals of the Linear Regression model, cost function, Normal equation, the math behind scikit learn's Linear-regression model, Computational Complexity of Normal Equation.
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | (Book)
   - [**Day 3 of #100DaysOfData - Personal Blog**](https://amittesting.herokuapp.com/blog/day3-of-100daysofdata) | (Blog)
+
+**Day4 of 100DaysOfData!**
+- On my journey of Machine Learning and Deep Learning, Today I continued reading from chapter 'Training Models' of Hands-on machine learning with scikit-learn and TensorFlow Book. I learned and implemented Gradient Descent and its types: Batch Gradient Descent, Stochastic Gradient Descent, and Mini-batch Gradient Descent. I also learned about Polynomial Regression to fit non-linear data with a linear model and learning curves.
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | (Book)
+
+**Day5 of 100DaysOfData!**
+- On my journey of Machine Learning and Deep Learning, Today I continued reading from chapter 'Training Models' of Hands-on machine learning with scikit-learn and TensorFlow Book. I started my day by reading about the Bias-Variance trade-off. Followed by that, I learned Regularization, Regularized linear models, different regularization methods using: Ridge Regression, Lasso Regression, Elastic Net, and Early Stopping. I also compared all those models and learned how they help to overcome overfitting.
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | (Book)
+  - https://github.com/amit-timalsina/Details-of-Training-Models
